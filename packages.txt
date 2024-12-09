@@ -1,0 +1,5 @@
+build-essential
+gcc 
+g++
+make
+librdkafka-dev
